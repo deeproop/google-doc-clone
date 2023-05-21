@@ -5,7 +5,7 @@ Share button has modal functionality similar to that of original google docs fro
 # Components Made ->
 Doc:  base of the complete webpage including the header. \
 TextEditor:  Implemented a text editor that mirrors the functionalities present on Google Docs' document editing screen.\
-ToolBar: Replicate the Google Docs toolbar which provides the document name, different formatting options.\
+ToolBar: Replicate the Google Docs toolbar which provides the document name, different formatting options and the ability to share the document.\
 SideBar: Implemented the sidebar that includes links to other Google apps. \
 Modal: contains the share button modal created using bootstrap.
 
