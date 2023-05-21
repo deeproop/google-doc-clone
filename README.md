@@ -1,11 +1,13 @@
 # Introduction
 This application is frontend of google docs text-editor screen. Technologies used- Reactjs, Tailwind CSS, Material Icons, Bootstrap Modal, Netlify (Deployment).\
 Share button has modal functionality similar to that of original google docs frontend. Text-editor state-management is integrated.
+
 # Components Made ->
-DOC (base of the complete webpage including the header), \
-TextEditor (contains the toolbar and textarea),\
-SideBar (links to other applications of google), \
-Modal (contains the share button modal created using bootstrap).
+Doc:  base of the complete webpage including the header. \
+TextEditor:  Implemented a text editor that mirrors the functionalities present on Google Docs' document editing screen.\
+ToolBar: Replicate the Google Docs toolbar which provides the document name, different formatting options.\
+SideBar: Implemented the sidebar that includes links to other Google apps. \
+Modal: contains the share button modal created using bootstrap.
 
 # Getting Started with Create React App
 
