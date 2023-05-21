@@ -1,5 +1,5 @@
 # Introduction
-This application is frontend of google docs text-editor screen. Technologies used- Reactjs, Tailwind CSS, Material Icons, Bootstrap Modal, Vercel (Deployment).\
+This application is frontend of google docs text-editor screen. Technologies used- Reactjs, Tailwind CSS, Material Icons, Bootstrap Modal, Netlify (Deployment).\
 Share button has modal functionality similar to that of original google docs frontend. Text-editor state-management is integrated.
 # Components Made ->
 DOC (base of the complete webpage including the header), \
